@@ -1,0 +1,306 @@
+2021-06-03 17:13:07,673 INFO org.springframework.boot.StartupInfoLogger [main] Starting OrganizationMigrationApplication using Java 1.8.0_191 on BIRADARPF1LFH2T with PID 16736 (C:\Projects\Covisint\Auto_Portal\Auto_Portal_DataMigration_Workspace\OrganizationMigration\target\classes started by biradarr in C:\Projects\Covisint\Auto_Portal\Auto_Portal_DataMigration_Workspace\OrganizationMigration)
+2021-06-03 17:13:07,689 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2021-06-03 17:13:28,917 INFO org.springframework.boot.StartupInfoLogger [main] Started OrganizationMigrationApplication in 21.868 seconds (JVM running for 22.803)
+2021-06-03 17:13:34,924 INFO com.covisint.datamigration.handlers.OrganizationsHandler [main] Create Organization : 2746947 Div1
+2021-06-03 17:13:35,885 INFO com.covisint.datamigration.service.OrganizationsServiceImpl [main] 2|fei5JA5FIB29KnIPKda6aiO3wVWK
+2021-06-03 17:13:36,625 INFO com.covisint.datamigration.handlers.OrganizationsHandler [main] Org Reg Resp: 
+{
+    "id":"OPP-AUTO-QA9734753374",
+    "version":"1622720616156",
+    "creator":"uAjAt6q8Ztu4XetQfl63N5fYtf5r4Mpc",
+    "creatorAppId":"uAjAt6q8Ztu4XetQfl63N5fYtf5r4Mpc",
+    "creation":1622720616156,
+    "realm":"PP-AUTO-QA",
+    "status":"active",
+    "parentOrganization":{
+        "id":"OPP-AUTO-QA9734708769",
+        "type":"Organization",
+        "realm":"PP-AUTO-QA"
+    },
+    "name":"Div1",
+    "addresses":[
+        {
+            "streets":[
+                "Bangalore"
+            ],
+            "city":"Bangalore",
+            "state":"Karnataka",
+            "country":"IN",
+            "postal":"123456"
+        }
+    ],
+    "authDomain":"SSO",
+    "organizationType":"AU",
+    "public":true,
+    "passwordPolicy":{
+        "id":"2c63546d-fc0c-4a1d-8d93-b4298d7b7906",
+        "type":"passwordPolicy",
+        "realm":"PP-AUTO-QA"
+    },
+    "authenticationPolicy":{
+        "id":"cad19f2f-8071-4336-9157-53eedd03b2a1",
+        "type":"authenticationPolicy",
+        "realm":"PP-AUTO-QA"
+    },
+    "attributes":[
+        {
+            "id":"9734694993",
+            "name":"LegacyOrgId",
+            "value":"2746947"
+        }
+    ]
+}
+2021-06-03 17:13:36,625 INFO com.covisint.datamigration.handlers.OrganizationsHandler [main] id and name: OPP-AUTO-QA9734753374 Div1
+2021-06-03 17:13:39,413 INFO com.covisint.datamigration.handlers.OrganizationsHandler [main] Create Organization : 2756743 Division01
+2021-06-03 17:13:40,335 INFO com.covisint.datamigration.service.OrganizationsServiceImpl [main] 2|x1tVmGtKiI8BgXWUepidAaHmNULk
+2021-06-03 17:13:41,225 INFO com.covisint.datamigration.handlers.OrganizationsHandler [main] Org Reg Resp: 
+{
+    "id":"OPP-AUTO-QA9734753377",
+    "version":"1622720620594",
+    "creator":"uAjAt6q8Ztu4XetQfl63N5fYtf5r4Mpc",
+    "creatorAppId":"uAjAt6q8Ztu4XetQfl63N5fYtf5r4Mpc",
+    "creation":1622720620594,
+    "realm":"PP-AUTO-QA",
+    "status":"active",
+    "parentOrganization":{
+        "id":"OPP-AUTO-QA9734708913",
+        "type":"Organization",
+        "realm":"PP-AUTO-QA"
+    },
+    "name":"Division01",
+    "addresses":[
+        {
+            "streets":[
+                "test"
+            ],
+            "city":"Bangalore",
+            "state":"Karnataka",
+            "country":"IN",
+            "postal":"123456"
+        }
+    ],
+    "authDomain":"SSO",
+    "organizationType":"AU",
+    "public":true,
+    "passwordPolicy":{
+        "id":"2c63546d-fc0c-4a1d-8d93-b4298d7b7906",
+        "type":"passwordPolicy",
+        "realm":"PP-AUTO-QA"
+    },
+    "authenticationPolicy":{
+        "id":"cad19f2f-8071-4336-9157-53eedd03b2a1",
+        "type":"authenticationPolicy",
+        "realm":"PP-AUTO-QA"
+    },
+    "attributes":[
+        {
+            "id":"9734694993",
+            "name":"LegacyOrgId",
+            "value":"2756743"
+        }
+    ]
+}
+2021-06-03 17:13:41,225 INFO com.covisint.datamigration.handlers.OrganizationsHandler [main] id and name: OPP-AUTO-QA9734753377 Division01
+2021-06-03 17:13:44,047 INFO com.covisint.datamigration.handlers.OrganizationsHandler [main] Create Organization : 2779543 Division002
+2021-06-03 17:13:45,151 INFO com.covisint.datamigration.service.OrganizationsServiceImpl [main] 2|Vl9IQXIxCcVbWzntieMlIPXm9WwJ
+2021-06-03 17:13:45,871 INFO com.covisint.datamigration.handlers.OrganizationsHandler [main] Org Reg Resp: 
+{
+    "id":"OPP-AUTO-QA9734753380",
+    "version":"1622720625406",
+    "creator":"uAjAt6q8Ztu4XetQfl63N5fYtf5r4Mpc",
+    "creatorAppId":"uAjAt6q8Ztu4XetQfl63N5fYtf5r4Mpc",
+    "creation":1622720625406,
+    "realm":"PP-AUTO-QA",
+    "status":"active",
+    "parentOrganization":{
+        "id":"OPP-AUTO-QA9734709381",
+        "type":"Organization",
+        "realm":"PP-AUTO-QA"
+    },
+    "name":"Division002",
+    "addresses":[
+        {
+            "streets":[
+                "ghyt"
+            ],
+            "city":"Bangalore",
+            "state":"Karnataka",
+            "country":"IN",
+            "postal":"752398"
+        }
+    ],
+    "authDomain":"SSO",
+    "organizationType":"AU",
+    "public":true,
+    "passwordPolicy":{
+        "id":"2c63546d-fc0c-4a1d-8d93-b4298d7b7906",
+        "type":"passwordPolicy",
+        "realm":"PP-AUTO-QA"
+    },
+    "authenticationPolicy":{
+        "id":"cad19f2f-8071-4336-9157-53eedd03b2a1",
+        "type":"authenticationPolicy",
+        "realm":"PP-AUTO-QA"
+    },
+    "attributes":[
+        {
+            "id":"9734694993",
+            "name":"LegacyOrgId",
+            "value":"2779543"
+        }
+    ]
+}
+2021-06-03 17:13:45,872 INFO com.covisint.datamigration.handlers.OrganizationsHandler [main] id and name: OPP-AUTO-QA9734753380 Division002
+2021-06-03 17:13:48,877 INFO com.covisint.datamigration.handlers.OrganizationsHandler [main] Create Organization : 2780408 NON SAO Org
+2021-06-03 17:13:49,286 INFO com.covisint.datamigration.service.OrganizationsServiceImpl [main] 2|BxUJqJduqkBrGpLzBUbOld6XJIoF
+2021-06-03 17:13:50,135 INFO com.covisint.datamigration.handlers.OrganizationsHandler [main] Org Reg Resp: 
+{
+    "id":"OPP-AUTO-QA9734753383",
+    "version":"1622720629536",
+    "creator":"uAjAt6q8Ztu4XetQfl63N5fYtf5r4Mpc",
+    "creatorAppId":"uAjAt6q8Ztu4XetQfl63N5fYtf5r4Mpc",
+    "creation":1622720629536,
+    "realm":"PP-AUTO-QA",
+    "status":"active",
+    "name":"NON SAO Org",
+    "addresses":[
+        {
+            "streets":[
+                "Bangalore"
+            ],
+            "city":"Bangalore",
+            "state":"Karnataka",
+            "country":"IN",
+            "postal":"123456"
+        }
+    ],
+    "authDomain":"SSO",
+    "organizationType":"AU",
+    "public":true,
+    "passwordPolicy":{
+        "id":"2c63546d-fc0c-4a1d-8d93-b4298d7b7906",
+        "type":"passwordPolicy",
+        "realm":"PP-AUTO-QA"
+    },
+    "authenticationPolicy":{
+        "id":"cad19f2f-8071-4336-9157-53eedd03b2a1",
+        "type":"authenticationPolicy",
+        "realm":"PP-AUTO-QA"
+    },
+    "attributes":[
+        {
+            "id":"9734694993",
+            "name":"LegacyOrgId",
+            "value":"2780408"
+        }
+    ]
+}
+2021-06-03 17:13:50,136 INFO com.covisint.datamigration.handlers.OrganizationsHandler [main] id and name: OPP-AUTO-QA9734753383 NON SAO Org
+2021-06-03 17:13:53,072 INFO com.covisint.datamigration.handlers.OrganizationsHandler [main] Create Organization : 2785608 demo
+2021-06-03 17:20:10,730 INFO org.springframework.boot.StartupInfoLogger [main] Starting OrganizationMigrationApplication using Java 1.8.0_191 on BIRADARPF1LFH2T with PID 9072 (C:\Projects\Covisint\Auto_Portal\Auto_Portal_DataMigration_Workspace\OrganizationMigration\target\classes started by biradarr in C:\Projects\Covisint\Auto_Portal\Auto_Portal_DataMigration_Workspace\OrganizationMigration)
+2021-06-03 17:20:10,735 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2021-06-03 17:20:31,235 INFO org.springframework.boot.StartupInfoLogger [main] Started OrganizationMigrationApplication in 21.025 seconds (JVM running for 21.905)
+2021-06-03 17:20:37,321 INFO com.covisint.datamigration.handlers.OrganizationsHandler [main] Create Organization : 2746947 Div1
+2021-06-03 17:20:38,274 INFO com.covisint.datamigration.service.OrganizationsServiceImpl [main] 2|HSm18RXPoZSvTtsPNLLRSfEslnq0
+2021-06-03 17:20:38,984 INFO com.covisint.datamigration.handlers.OrganizationsHandler [main] Org Reg Resp: 
+{
+    "id":"OPP-AUTO-QA9734753386",
+    "version":"1622721038500",
+    "creator":"uAjAt6q8Ztu4XetQfl63N5fYtf5r4Mpc",
+    "creatorAppId":"uAjAt6q8Ztu4XetQfl63N5fYtf5r4Mpc",
+    "creation":1622721038500,
+    "realm":"PP-AUTO-QA",
+    "status":"active",
+    "parentOrganization":{
+        "id":"OPP-AUTO-QA9734708769",
+        "type":"Organization",
+        "realm":"PP-AUTO-QA"
+    },
+    "name":"Div1",
+    "addresses":[
+        {
+            "streets":[
+                "Bangalore"
+            ],
+            "city":"Bangalore",
+            "state":"Karnataka",
+            "country":"IN",
+            "postal":"123456"
+        }
+    ],
+    "authDomain":"SSO",
+    "organizationType":"AU",
+    "public":true,
+    "passwordPolicy":{
+        "id":"2c63546d-fc0c-4a1d-8d93-b4298d7b7906",
+        "type":"passwordPolicy",
+        "realm":"PP-AUTO-QA"
+    },
+    "authenticationPolicy":{
+        "id":"cad19f2f-8071-4336-9157-53eedd03b2a1",
+        "type":"authenticationPolicy",
+        "realm":"PP-AUTO-QA"
+    },
+    "attributes":[
+        {
+            "id":"9734694993",
+            "name":"LegacyOrgId",
+            "value":"2746947"
+        }
+    ]
+}
+2021-06-03 17:20:38,986 INFO com.covisint.datamigration.handlers.OrganizationsHandler [main] id and name: OPP-AUTO-QA9734753386 Div1
+2021-06-03 17:20:41,416 INFO com.covisint.datamigration.handlers.OrganizationsHandler [main] Create Organization : 2756743 Division01
+2021-06-03 17:20:42,293 INFO com.covisint.datamigration.service.OrganizationsServiceImpl [main] 2|p3Gb1NgGVjkBTGNX39L2mxbuSYfo
+2021-06-03 17:20:42,977 INFO com.covisint.datamigration.handlers.OrganizationsHandler [main] Org Reg Resp: 
+{
+    "id":"OPP-AUTO-QA9734753389",
+    "version":"1622721042532",
+    "creator":"uAjAt6q8Ztu4XetQfl63N5fYtf5r4Mpc",
+    "creatorAppId":"uAjAt6q8Ztu4XetQfl63N5fYtf5r4Mpc",
+    "creation":1622721042532,
+    "realm":"PP-AUTO-QA",
+    "status":"active",
+    "parentOrganization":{
+        "id":"OPP-AUTO-QA9734708913",
+        "type":"Organization",
+        "realm":"PP-AUTO-QA"
+    },
+    "name":"Division01",
+    "addresses":[
+        {
+            "streets":[
+                "test"
+            ],
+            "city":"Bangalore",
+            "state":"Karnataka",
+            "country":"IN",
+            "postal":"123456"
+        }
+    ],
+    "authDomain":"SSO",
+    "organizationType":"AU",
+    "public":true,
+    "passwordPolicy":{
+        "id":"2c63546d-fc0c-4a1d-8d93-b4298d7b7906",
+        "type":"passwordPolicy",
+        "realm":"PP-AUTO-QA"
+    },
+    "authenticationPolicy":{
+        "id":"cad19f2f-8071-4336-9157-53eedd03b2a1",
+        "type":"authenticationPolicy",
+        "realm":"PP-AUTO-QA"
+    },
+    "attributes":[
+        {
+            "id":"9734694993",
+            "name":"LegacyOrgId",
+            "value":"2756743"
+        }
+    ]
+}
+2021-06-03 17:20:42,978 INFO com.covisint.datamigration.handlers.OrganizationsHandler [main] id and name: OPP-AUTO-QA9734753389 Division01
+2021-06-03 17:21:44,139 INFO org.springframework.boot.StartupInfoLogger [main] Starting OrganizationMigrationApplication using Java 1.8.0_191 on BIRADARPF1LFH2T with PID 2608 (C:\Projects\Covisint\Auto_Portal\Auto_Portal_DataMigration_Workspace\OrganizationMigration\target\classes started by biradarr in C:\Projects\Covisint\Auto_Portal\Auto_Portal_DataMigration_Workspace\OrganizationMigration)
+2021-06-03 17:21:44,142 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2021-06-03 17:22:04,268 INFO org.springframework.boot.StartupInfoLogger [main] Started OrganizationMigrationApplication in 20.513 seconds (JVM running for 21.261)
+2021-06-03 17:22:09,584 INFO com.covisint.datamigration.handlers.OrganizationsHandler [main] Update Organization : 1009837 Visteon Corporation

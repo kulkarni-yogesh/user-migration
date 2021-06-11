@@ -1,0 +1,120 @@
+2021-05-18 23:30:08,845 INFO org.springframework.boot.StartupInfoLogger [main] Starting OrganizationMigrationApplication using Java 11.0.9.1 on SKANKANPF1KTQCH with PID 29984 (C:\DataMigration\OrganizationMigration\target\classes started by skankanm in C:\DataMigration\OrganizationMigration)
+2021-05-18 23:30:08,852 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2021-05-18 23:30:09,737 INFO org.springframework.data.repository.config.RepositoryConfigurationDelegate [main] Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2021-05-18 23:30:09,858 INFO org.springframework.data.repository.config.RepositoryConfigurationDelegate [main] Finished Spring Data repository scanning in 106 ms. Found 5 JPA repository interfaces.
+2021-05-18 23:30:10,598 INFO com.zaxxer.hikari.HikariDataSource [main] HikariPool-1 - Starting...
+2021-05-18 23:30:14,101 INFO com.zaxxer.hikari.pool.PoolBase [main] HikariPool-1 - Driver does not support get/set network timeout for connections. (Receiver class oracle.jdbc.driver.T4CConnection does not define or inherit an implementation of the resolved method 'abstract int getNetworkTimeout()' of interface java.sql.Connection.)
+2021-05-18 23:30:14,383 INFO com.zaxxer.hikari.HikariDataSource [main] HikariPool-1 - Start completed.
+2021-05-18 23:30:14,645 INFO org.hibernate.jpa.internal.util.LogHelper [main] HHH000204: Processing PersistenceUnitInfo [name: default]
+2021-05-18 23:30:14,838 INFO org.hibernate.Version [main] HHH000412: Hibernate ORM core version 5.4.27.Final
+2021-05-18 23:30:15,022 INFO org.hibernate.annotations.common.reflection.java.JavaReflectionManager [main] HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2021-05-18 23:30:16,745 INFO org.hibernate.dialect.Dialect [main] HHH000400: Using dialect: org.hibernate.dialect.Oracle12cDialect
+2021-05-18 23:30:28,441 INFO org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator [main] HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-05-18 23:30:28,459 INFO org.springframework.orm.jpa.AbstractEntityManagerFactoryBean [main] Initialized JPA EntityManagerFactory for persistence unit 'default'
+2021-05-18 23:30:29,908 INFO org.springframework.boot.StartupInfoLogger [main] Started OrganizationMigrationApplication in 21.962 seconds (JVM running for 22.933)
+2021-05-18 23:30:38,034 INFO com.covisint.datamigration.handlers.OrganizationsHandler [main] Create Organization : 1009685 ArvinMeritor
+2021-05-18 23:30:38,384 INFO com.covisint.datamigration.service.OrganizationsServiceImpl [main] 2|O0X5wF3XQSLWrfGYOVzgnSagMInf
+2021-05-18 23:30:38,852 INFO com.covisint.datamigration.handlers.OrganizationsHandler [main] Org Reg Resp: 
+{
+    "id":"OPP-AUTO-DEV9734648912",
+    "version":"1621360838603",
+    "creator":"j1TqbuO6AA7e5tLGbNBI8HuTa2Vcvrnu",
+    "creatorAppId":"j1TqbuO6AA7e5tLGbNBI8HuTa2Vcvrnu",
+    "creation":1621360838603,
+    "realm":"PP-AUTO-DEV",
+    "status":"active",
+    "name":"ArvinMeritor",
+    "addresses":[
+        {
+            "streets":[
+                "2135 W Maple Road"
+            ],
+            "city":"Troy",
+            "state":"MI",
+            "country":"US",
+            "postal":"48084-7186"
+        }
+    ],
+    "authDomain":"SSO",
+    "organizationType":"AU",
+    "public":true,
+    "passwordPolicy":{
+        "id":"ba7427ab-a5aa-423f-9030-5a9a99b6c876",
+        "type":"passwordPolicy",
+        "realm":"PP-AUTO-DEV"
+    },
+    "authenticationPolicy":{
+        "id":"1916964d-069b-4b67-956d-d371a78f2875",
+        "type":"authenticationPolicy",
+        "realm":"PP-AUTO-DEV"
+    },
+    "attributes":[
+        {
+            "id":"9734572720",
+            "name":"LegacyOrgId",
+            "value":"1009685"
+        }
+    ]
+}
+2021-05-18 23:30:38,856 INFO com.covisint.datamigration.handlers.OrganizationsHandler [main] id and name: OPP-AUTO-DEV9734648912 ArvinMeritor
+2021-05-18 23:30:40,299 INFO org.springframework.orm.jpa.AbstractEntityManagerFactoryBean [SpringContextShutdownHook] Closing JPA EntityManagerFactory for persistence unit 'default'
+2021-05-18 23:30:40,312 INFO com.zaxxer.hikari.HikariDataSource [SpringContextShutdownHook] HikariPool-1 - Shutdown initiated...
+2021-05-18 23:30:43,353 INFO com.zaxxer.hikari.HikariDataSource [SpringContextShutdownHook] HikariPool-1 - Shutdown completed.
+2021-05-18 23:47:29,469 INFO org.springframework.boot.StartupInfoLogger [main] Starting OrganizationMigrationApplication using Java 11.0.9.1 on SKANKANPF1KTQCH with PID 31560 (C:\DataMigration\OrganizationMigration\target\classes started by skankanm in C:\DataMigration\OrganizationMigration)
+2021-05-18 23:47:29,479 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2021-05-18 23:47:51,212 INFO org.springframework.boot.StartupInfoLogger [main] Started OrganizationMigrationApplication in 22.73 seconds (JVM running for 23.667)
+2021-05-18 23:48:01,899 INFO com.covisint.datamigration.service.OrganizationsServiceImpl [main] 2|lk8WTHFZ07qWmvJhoto2LwL4uhAr
+2021-05-18 23:48:02,370 INFO com.covisint.datamigration.handlers.OrganizationsHandler [main] Org Reg Resp: 
+{
+    "id":"OPP-AUTO-DEV9734648915",
+    "version":"1621361882119",
+    "creator":"j1TqbuO6AA7e5tLGbNBI8HuTa2Vcvrnu",
+    "creatorAppId":"j1TqbuO6AA7e5tLGbNBI8HuTa2Vcvrnu",
+    "creation":1621361882119,
+    "realm":"PP-AUTO-DEV",
+    "status":"active",
+    "name":"Covisint",
+    "addresses":[
+        {
+            "streets":[
+                "1 Campus Martius"
+            ],
+            "city":"Detroit",
+            "state":"MI",
+            "country":"US",
+            "postal":"48226"
+        }
+    ],
+    "phones":[
+        {
+            "type":"main",
+            "number":"313-227-7300"
+        }
+    ],
+    "url":"http://www.covisint.com",
+    "authDomain":"SSO",
+    "organizationType":"AU",
+    "duns":"072773849",
+    "public":true,
+    "passwordPolicy":{
+        "id":"ba7427ab-a5aa-423f-9030-5a9a99b6c876",
+        "type":"passwordPolicy",
+        "realm":"PP-AUTO-DEV"
+    },
+    "authenticationPolicy":{
+        "id":"1916964d-069b-4b67-956d-d371a78f2875",
+        "type":"authenticationPolicy",
+        "realm":"PP-AUTO-DEV"
+    },
+    "attributes":[
+        {
+            "id":"9734572720",
+            "name":"LegacyOrgId",
+            "value":"101"
+        }
+    ]
+}
+2021-05-18 23:48:02,372 INFO com.covisint.datamigration.handlers.OrganizationsHandler [main] id and name: OPP-AUTO-DEV9734648915 Covisint
+2021-05-18 23:59:36,332 INFO org.springframework.boot.StartupInfoLogger [main] Starting OrganizationMigrationApplication using Java 11.0.9.1 on SKANKANPF1KTQCH with PID 25976 (C:\DataMigration\OrganizationMigration\target\classes started by skankanm in C:\DataMigration\OrganizationMigration)
+2021-05-18 23:59:36,344 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2021-05-18 23:59:57,009 INFO org.springframework.boot.StartupInfoLogger [main] Started OrganizationMigrationApplication in 21.425 seconds (JVM running for 22.682)

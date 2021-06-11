@@ -1,0 +1,45 @@
+[30m2021-05-24 18:27:05,558[0;39m [34mINFO [0;39m [[34mmain[0;39m] [33mcom.covisint.datamigration.handlers.OrganizationsHandler[0;39m: Create Organization : 3120858 AUTOMATION SENSORS INC.
+[30m2021-05-24 18:27:05,921[0;39m [34mINFO [0;39m [[34mmain[0;39m] [33mcom.covisint.datamigration.service.OrganizationsServiceImpl[0;39m: 2|dLxsJfLYPrG5ItYZBuiLCBCCpusD
+[30m2021-05-24 18:27:06,787[0;39m [34mINFO [0;39m [[34mmain[0;39m] [33mcom.covisint.datamigration.handlers.OrganizationsHandler[0;39m: Org Reg Resp: 
+{
+    "id":"OPP-AUTO-QA9734695239",
+    "version":"1621861026225",
+    "creator":"uAjAt6q8Ztu4XetQfl63N5fYtf5r4Mpc",
+    "creatorAppId":"uAjAt6q8Ztu4XetQfl63N5fYtf5r4Mpc",
+    "creation":1621861026225,
+    "realm":"PP-AUTO-QA",
+    "status":"active",
+    "name":"AUTOMATION SENSORS INC.",
+    "addresses":[
+        {
+            "streets":[
+                "1557 COON RAPIDS BLVD."
+            ],
+            "city":"MINNEAPOLIS",
+            "state":"MN",
+            "country":"US",
+            "postal":"55433"
+        }
+    ],
+    "authDomain":"SSO",
+    "organizationType":"AU",
+    "accountNumber":"46425",
+    "public":true,
+    "passwordPolicy":{
+        "id":"2c63546d-fc0c-4a1d-8d93-b4298d7b7906",
+        "type":"passwordPolicy",
+        "realm":"PP-AUTO-QA"
+    },
+    "authenticationPolicy":{
+        "id":"cad19f2f-8071-4336-9157-53eedd03b2a1",
+        "type":"authenticationPolicy",
+        "realm":"PP-AUTO-QA"
+    },
+    "attributes":[
+        {
+            "id":"9734694993",
+            "name":"LegacyOrgId",
+            "value":"3120858"
+        }
+    ]
+}

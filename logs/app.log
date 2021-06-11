@@ -1,0 +1,86 @@
+2021-06-10 13:04:08,417 INFO org.springframework.boot.StartupInfoLogger [main] Starting UserMigrationApplication using Java 1.8.0_281 on YKULKARN6HXH3H2 with PID 17776 (C:\Users\ykulkarn\Desktop\Automative Portal\Data_Migration\UserMigration\target\classes started by ykulkarn in C:\Users\ykulkarn\Desktop\Automative Portal\Data_Migration\UserMigration)
+2021-06-10 13:04:08,425 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2021-06-10 13:04:26,737 INFO org.springframework.boot.StartupInfoLogger [main] Started UserMigrationApplication in 18.875 seconds (JVM running for 19.942)
+2021-06-10 13:04:32,210 INFO com.covisint.datamigration.handlers.UsersHandler [main] null
+2021-06-10 13:04:33,432 INFO com.covisint.datamigration.handlers.UsersHandler [main] null
+2021-06-10 14:01:44,490 INFO org.springframework.boot.StartupInfoLogger [main] Starting UserMigrationApplication using Java 1.8.0_281 on YKULKARN6HXH3H2 with PID 14840 (C:\Users\ykulkarn\Desktop\Automative Portal\Data_Migration\UserMigration\target\classes started by ykulkarn in C:\Users\ykulkarn\Desktop\Automative Portal\Data_Migration\UserMigration)
+2021-06-10 14:01:44,495 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2021-06-10 14:02:02,716 INFO org.springframework.boot.StartupInfoLogger [main] Started UserMigrationApplication in 18.785 seconds (JVM running for 19.653)
+2021-06-10 14:08:32,156 INFO org.springframework.boot.StartupInfoLogger [main] Starting UserMigrationApplication using Java 1.8.0_281 on YKULKARN6HXH3H2 with PID 2968 (C:\Users\ykulkarn\Desktop\Automative Portal\Data_Migration\UserMigration\target\classes started by ykulkarn in C:\Users\ykulkarn\Desktop\Automative Portal\Data_Migration\UserMigration)
+2021-06-10 14:08:32,162 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2021-06-10 14:08:48,891 INFO org.springframework.boot.StartupInfoLogger [main] Started UserMigrationApplication in 17.221 seconds (JVM running for 17.988)
+2021-06-10 14:30:15,794 INFO org.springframework.boot.StartupInfoLogger [main] Starting UserMigrationApplication using Java 1.8.0_281 on YKULKARN6HXH3H2 with PID 13004 (C:\Users\ykulkarn\Desktop\Automative Portal\Data_Migration\UserMigration\target\classes started by ykulkarn in C:\Users\ykulkarn\Desktop\Automative Portal\Data_Migration\UserMigration)
+2021-06-10 14:30:15,800 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2021-06-10 14:30:35,348 INFO org.springframework.boot.StartupInfoLogger [main] Started UserMigrationApplication in 20.055 seconds (JVM running for 20.949)
+2021-06-10 14:58:15,186 INFO org.springframework.boot.StartupInfoLogger [main] Starting UserMigrationApplication using Java 1.8.0_281 on YKULKARN6HXH3H2 with PID 19488 (C:\Users\ykulkarn\Desktop\Automative Portal\Data_Migration\UserMigration\target\classes started by ykulkarn in C:\Users\ykulkarn\Desktop\Automative Portal\Data_Migration\UserMigration)
+2021-06-10 14:58:15,191 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2021-06-10 14:58:33,400 INFO org.springframework.boot.StartupInfoLogger [main] Started UserMigrationApplication in 18.746 seconds (JVM running for 19.567)
+2021-06-10 15:12:14,887 INFO org.springframework.boot.StartupInfoLogger [main] Starting UserMigrationApplication using Java 1.8.0_281 on YKULKARN6HXH3H2 with PID 18392 (C:\Users\ykulkarn\Desktop\Automative Portal\Data_Migration\UserMigration\target\classes started by ykulkarn in C:\Users\ykulkarn\Desktop\Automative Portal\Data_Migration\UserMigration)
+2021-06-10 15:12:14,891 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2021-06-10 15:12:31,466 INFO org.springframework.boot.StartupInfoLogger [main] Started UserMigrationApplication in 16.988 seconds (JVM running for 17.783)
+2021-06-10 15:17:38,326 INFO org.springframework.boot.StartupInfoLogger [main] Starting UserMigrationApplication using Java 1.8.0_281 on YKULKARN6HXH3H2 with PID 20404 (C:\Users\ykulkarn\Desktop\Automative Portal\Data_Migration\UserMigration\target\classes started by ykulkarn in C:\Users\ykulkarn\Desktop\Automative Portal\Data_Migration\UserMigration)
+2021-06-10 15:17:38,329 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2021-06-10 15:17:58,031 INFO org.springframework.boot.StartupInfoLogger [main] Started UserMigrationApplication in 20.117 seconds (JVM running for 20.876)
+2021-06-10 15:27:06,533 INFO org.springframework.boot.StartupInfoLogger [main] Starting UserMigrationApplication using Java 1.8.0_281 on YKULKARN6HXH3H2 with PID 19532 (C:\Users\ykulkarn\Desktop\Automative Portal\Data_Migration\UserMigration\target\classes started by ykulkarn in C:\Users\ykulkarn\Desktop\Automative Portal\Data_Migration\UserMigration)
+2021-06-10 15:27:06,538 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2021-06-10 15:27:24,200 INFO org.springframework.boot.StartupInfoLogger [main] Started UserMigrationApplication in 18.204 seconds (JVM running for 19.033)
+2021-06-10 16:30:59,738 INFO org.springframework.boot.StartupInfoLogger [main] Starting UserMigrationApplication using Java 1.8.0_281 on YKULKARN6HXH3H2 with PID 9416 (C:\Users\ykulkarn\Desktop\Automative Portal\Data_Migration\UserMigration\target\classes started by ykulkarn in C:\Users\ykulkarn\Desktop\Automative Portal\Data_Migration\UserMigration)
+2021-06-10 16:30:59,743 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2021-06-10 16:31:18,467 INFO org.springframework.boot.StartupInfoLogger [main] Started UserMigrationApplication in 19.236 seconds (JVM running for 20.109)
+2021-06-10 16:31:26,862 INFO com.covisint.datamigration.handlers.UsersHandler [main] Expected a com.google.gson.JsonObject but was com.google.gson.JsonArray
+2021-06-10 16:31:27,787 INFO com.covisint.datamigration.handlers.UsersHandler [main] Expected a com.google.gson.JsonObject but was com.google.gson.JsonArray
+2021-06-10 16:31:28,702 INFO com.covisint.datamigration.handlers.UsersHandler [main] Expected a com.google.gson.JsonObject but was com.google.gson.JsonArray
+2021-06-10 16:31:29,639 INFO com.covisint.datamigration.handlers.UsersHandler [main] Expected a com.google.gson.JsonObject but was com.google.gson.JsonArray
+2021-06-10 16:31:30,546 INFO com.covisint.datamigration.handlers.UsersHandler [main] Expected a com.google.gson.JsonObject but was com.google.gson.JsonArray
+2021-06-10 16:31:31,514 INFO com.covisint.datamigration.handlers.UsersHandler [main] Expected a com.google.gson.JsonObject but was com.google.gson.JsonArray
+2021-06-10 16:44:31,524 INFO org.springframework.boot.StartupInfoLogger [main] Starting UserMigrationApplication using Java 1.8.0_281 on YKULKARN6HXH3H2 with PID 12508 (C:\Users\ykulkarn\Desktop\Automative Portal\Data_Migration\UserMigration\target\classes started by ykulkarn in C:\Users\ykulkarn\Desktop\Automative Portal\Data_Migration\UserMigration)
+2021-06-10 16:44:31,528 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2021-06-10 16:44:49,009 INFO org.springframework.boot.StartupInfoLogger [main] Started UserMigrationApplication in 17.977 seconds (JVM running for 18.853)
+2021-06-10 16:44:53,405 INFO com.covisint.datamigration.handlers.UsersHandler [main] null
+2021-06-10 16:44:54,318 INFO com.covisint.datamigration.handlers.UsersHandler [main] null
+2021-06-10 16:44:55,219 INFO com.covisint.datamigration.handlers.UsersHandler [main] null
+2021-06-10 16:44:56,127 INFO com.covisint.datamigration.handlers.UsersHandler [main] null
+2021-06-10 16:44:57,036 INFO com.covisint.datamigration.handlers.UsersHandler [main] null
+2021-06-10 16:44:57,947 INFO com.covisint.datamigration.handlers.UsersHandler [main] null
+2021-06-10 16:46:25,878 INFO org.springframework.boot.StartupInfoLogger [main] Starting UserMigrationApplication using Java 1.8.0_281 on YKULKARN6HXH3H2 with PID 18692 (C:\Users\ykulkarn\Desktop\Automative Portal\Data_Migration\UserMigration\target\classes started by ykulkarn in C:\Users\ykulkarn\Desktop\Automative Portal\Data_Migration\UserMigration)
+2021-06-10 16:46:25,881 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2021-06-10 16:46:43,391 INFO org.springframework.boot.StartupInfoLogger [main] Started UserMigrationApplication in 17.947 seconds (JVM running for 18.798)
+2021-06-10 17:57:49,146 INFO org.springframework.boot.StartupInfoLogger [main] Starting UserMigrationApplication using Java 1.8.0_281 on YKULKARN6HXH3H2 with PID 10768 (C:\Users\ykulkarn\Desktop\Automative Portal\Data_Migration\UserMigration\target\classes started by ykulkarn in C:\Users\ykulkarn\Desktop\Automative Portal\Data_Migration\UserMigration)
+2021-06-10 17:57:49,151 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2021-06-10 18:01:16,364 INFO org.springframework.boot.StartupInfoLogger [main] Starting UserMigrationApplication using Java 1.8.0_281 on YKULKARN6HXH3H2 with PID 10700 (C:\Users\ykulkarn\Desktop\Automative Portal\Data_Migration\UserMigration\target\classes started by ykulkarn in C:\Users\ykulkarn\Desktop\Automative Portal\Data_Migration\UserMigration)
+2021-06-10 18:01:16,367 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2021-06-10 18:01:33,429 INFO org.springframework.boot.StartupInfoLogger [main] Started UserMigrationApplication in 17.501 seconds (JVM running for 18.369)
+2021-06-10 18:38:22,054 INFO org.springframework.boot.StartupInfoLogger [main] Starting UserMigrationApplication using Java 1.8.0_281 on YKULKARN6HXH3H2 with PID 19936 (C:\Users\ykulkarn\Desktop\Automative Portal\Data_Migration\UserMigration\target\classes started by ykulkarn in C:\Users\ykulkarn\Desktop\Automative Portal\Data_Migration\UserMigration)
+2021-06-10 18:38:22,058 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2021-06-10 18:38:38,988 INFO org.springframework.boot.StartupInfoLogger [main] Started UserMigrationApplication in 17.39 seconds (JVM running for 18.28)
+2021-06-10 18:38:43,741 INFO com.covisint.datamigration.handlers.UsersHandler [main] This is not a JSON Array.
+2021-06-10 18:38:44,975 INFO com.covisint.datamigration.handlers.UsersHandler [main] This is not a JSON Array.
+2021-06-10 18:38:46,122 INFO com.covisint.datamigration.handlers.UsersHandler [main] This is not a JSON Array.
+2021-06-10 18:38:47,210 INFO com.covisint.datamigration.handlers.UsersHandler [main] This is not a JSON Array.
+2021-06-10 18:38:48,305 INFO com.covisint.datamigration.handlers.UsersHandler [main] This is not a JSON Array.
+2021-06-10 18:38:49,492 INFO com.covisint.datamigration.handlers.UsersHandler [main] This is not a JSON Array.
+2021-06-10 18:44:39,236 INFO org.springframework.boot.StartupInfoLogger [main] Starting UserMigrationApplication using Java 1.8.0_281 on YKULKARN6HXH3H2 with PID 21356 (C:\Users\ykulkarn\Desktop\Automative Portal\Data_Migration\UserMigration\target\classes started by ykulkarn in C:\Users\ykulkarn\Desktop\Automative Portal\Data_Migration\UserMigration)
+2021-06-10 18:44:39,239 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2021-06-10 18:44:55,854 INFO org.springframework.boot.StartupInfoLogger [main] Started UserMigrationApplication in 17.095 seconds (JVM running for 17.962)
+2021-06-10 19:13:54,635 INFO org.springframework.boot.StartupInfoLogger [main] Starting UserMigrationApplication using Java 1.8.0_281 on YKULKARN6HXH3H2 with PID 21044 (C:\Users\ykulkarn\Desktop\Automative Portal\Data_Migration\UserMigration\target\classes started by ykulkarn in C:\Users\ykulkarn\Desktop\Automative Portal\Data_Migration\UserMigration)
+2021-06-10 19:13:54,641 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2021-06-10 19:14:11,226 INFO org.springframework.boot.StartupInfoLogger [main] Started UserMigrationApplication in 17.046 seconds (JVM running for 17.851)
+2021-06-10 19:14:16,837 INFO com.covisint.datamigration.handlers.UsersHandler [main] Expected a com.google.gson.JsonArray but was com.google.gson.JsonObject
+2021-06-10 19:31:53,488 INFO org.springframework.boot.StartupInfoLogger [main] Starting UserMigrationApplication using Java 1.8.0_281 on YKULKARN6HXH3H2 with PID 4020 (C:\Users\ykulkarn\Desktop\Automative Portal\Data_Migration\UserMigration\target\classes started by ykulkarn in C:\Users\ykulkarn\Desktop\Automative Portal\Data_Migration\UserMigration)
+2021-06-10 19:31:53,493 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2021-06-10 19:32:11,837 INFO org.springframework.boot.StartupInfoLogger [main] Started UserMigrationApplication in 18.93 seconds (JVM running for 19.86)
+2021-06-10 19:32:25,288 INFO com.covisint.datamigration.handlers.UsersHandler [main] No value present
+2021-06-10 19:35:59,257 INFO org.springframework.boot.StartupInfoLogger [main] Starting UserMigrationApplication using Java 1.8.0_281 on YKULKARN6HXH3H2 with PID 18928 (C:\Users\ykulkarn\Desktop\Automative Portal\Data_Migration\UserMigration\target\classes started by ykulkarn in C:\Users\ykulkarn\Desktop\Automative Portal\Data_Migration\UserMigration)
+2021-06-10 19:35:59,260 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2021-06-10 19:36:16,685 INFO org.springframework.boot.StartupInfoLogger [main] Started UserMigrationApplication in 17.835 seconds (JVM running for 18.63)
+2021-06-10 19:36:32,705 INFO com.covisint.datamigration.handlers.UsersHandler [main] null
+2021-06-10 19:45:16,192 INFO org.springframework.boot.StartupInfoLogger [main] Starting UserMigrationApplication using Java 1.8.0_281 on YKULKARN6HXH3H2 with PID 20112 (C:\Users\ykulkarn\Desktop\Automative Portal\Data_Migration\UserMigration\target\classes started by ykulkarn in C:\Users\ykulkarn\Desktop\Automative Portal\Data_Migration\UserMigration)
+2021-06-10 19:45:16,197 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2021-06-10 19:45:32,132 INFO org.springframework.boot.StartupInfoLogger [main] Started UserMigrationApplication in 16.417 seconds (JVM running for 17.274)
+2021-06-10 19:51:03,589 INFO org.springframework.boot.StartupInfoLogger [main] Starting UserMigrationApplication using Java 1.8.0_281 on YKULKARN6HXH3H2 with PID 9996 (C:\Users\ykulkarn\Desktop\Automative Portal\Data_Migration\UserMigration\target\classes started by ykulkarn in C:\Users\ykulkarn\Desktop\Automative Portal\Data_Migration\UserMigration)
+2021-06-10 19:51:03,593 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2021-06-10 19:51:19,865 INFO org.springframework.boot.StartupInfoLogger [main] Started UserMigrationApplication in 16.74 seconds (JVM running for 17.566)
+2021-06-10 19:51:36,946 INFO com.covisint.datamigration.handlers.UsersHandler [main] Expected a com.google.gson.JsonArray but was com.google.gson.JsonObject
+2021-06-10 20:09:20,537 INFO org.springframework.boot.StartupInfoLogger [main] Starting UserMigrationApplication using Java 1.8.0_281 on YKULKARN6HXH3H2 with PID 18596 (C:\Users\ykulkarn\Desktop\Automative Portal\Data_Migration\UserMigration\target\classes started by ykulkarn in C:\Users\ykulkarn\Desktop\Automative Portal\Data_Migration\UserMigration)
+2021-06-10 20:09:20,541 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2021-06-10 20:09:37,911 INFO org.springframework.boot.StartupInfoLogger [main] Started UserMigrationApplication in 17.813 seconds (JVM running for 18.602)
